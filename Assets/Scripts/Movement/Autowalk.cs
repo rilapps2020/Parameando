@@ -28,8 +28,10 @@ using System.Collections;
 
 public class Autowalk : MonoBehaviour
 {
-
     private const int RIGHT_ANGLE = 90;
+
+    private Vector3 direction;
+    private Quaternion rotation;
 
     // This variable determinates if the player will move or not 
     public bool isWalking = false;

@@ -7,7 +7,7 @@ public class AnimatePlayer : MonoBehaviour {
 
 	// Use this for initialization
 	private Animator anim;
-	public GameObject characterCam;
+	public GameObject character;
 	private Boolean stateWalking;
 
 	void Start () {
@@ -16,7 +16,7 @@ public class AnimatePlayer : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		stateWalking = characterCam.GetComponent<Autowalk>().isWalking;
+		stateWalking = character.GetComponent<Autowalk>().isWalking;
 		if (stateWalking)
 		{
 			anim.SetFloat("IsWalking", 1);

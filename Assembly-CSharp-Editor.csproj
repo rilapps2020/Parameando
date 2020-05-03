@@ -66,6 +66,7 @@
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioRoomEditor.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioSoundfieldEditor.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioSourceEditor.cs" />
+     <None Include="Assets\Prefabs\Character\Template\README.txt" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrController.shader" />

@@ -161,6 +161,8 @@
      <Compile Include="Assets\Scripts\Movement\AnimatePlayer.cs" />
      <Compile Include="Assets\Scripts\Movement\Autowalk.cs" />
      <Compile Include="Assets\Scripts\Movement\RotatePlayer.cs" />
+     <Compile Include="Assets\Scripts\Movement\TracingObject.cs" />
+     <None Include="Assets\Prefabs\Character\Template\README.txt" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrController.shader" />
