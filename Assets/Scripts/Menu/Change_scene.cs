@@ -18,11 +18,13 @@ public class Change_scene : MonoBehaviour {
 		if (state == 1)
 		{
 			Debug.Log("Modo normal");
+			ChangeSceneTo("MainMenu");
 		}
 
 		if (state == 2)
 		{
 			Debug.Log("Modo VR");
+			ChangeSceneTo("MainMenu");
 		}
 	}
 	public void ChangeSceneTo(string sceneName) ///State 0 = Primera vez, State 1 = Modo normal, State 2 = Modo VR
