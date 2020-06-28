@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class Change_scene : MonoBehaviour {
 
+	/*  Se quita este void start el 28/06/2020
 	void Start()
 	{
 		int state = PlayerPrefs.GetInt("State");
@@ -27,6 +28,8 @@ public class Change_scene : MonoBehaviour {
 			ChangeSceneTo("MainMenu");
 		}
 	}
+
+	*/
 	public void ChangeSceneTo(string sceneName) ///State 0 = Primera vez, State 1 = Modo normal, State 2 = Modo VR
 	{
 		SceneManager.LoadScene(sceneName);
