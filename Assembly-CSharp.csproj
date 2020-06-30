@@ -158,6 +158,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\Scripts\InGame\DayNight\DayNight.cs" />
      <Compile Include="Assets\Scripts\Menu\ButtonTest.cs" />
      <Compile Include="Assets\Scripts\Menu\Change_scene.cs" />
      <Compile Include="Assets\Scripts\Menu\ChangeTypeView.cs" />
