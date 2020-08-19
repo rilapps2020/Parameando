@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Menu_button
   - Main_Menu
+  - NPC
   layers:
   - Default
   - TransparentFX

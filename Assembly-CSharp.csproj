@@ -170,6 +170,9 @@
      <Compile Include="Assets\Scripts\Menu\VR Mode\SoundAsset.cs" />
      <Compile Include="Assets\Scripts\Movement\AnimatePlayer.cs" />
      <Compile Include="Assets\Scripts\Movement\Autowalk.cs" />
+     <Compile Include="Assets\Scripts\Movement\MovementTest.cs" />
+     <Compile Include="Assets\Scripts\Movement\NavMeshController.cs" />
+     <Compile Include="Assets\Scripts\Movement\NPCCheckpoint.cs" />
      <Compile Include="Assets\Scripts\Movement\RotatePlayer.cs" />
      <Compile Include="Assets\Scripts\Movement\TracingObject.cs" />
      <Compile Include="Assets\Scripts\PlayerPrefs\UserSettings.cs" />
