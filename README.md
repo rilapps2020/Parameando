@@ -31,4 +31,4 @@ Para desplegar el proyecto se debe exportar para Android 5.1 en adelante con las
 * Pagina web del colegio: https://iecolegioloyola.edu.co/
 
 ---
-Escrito con ❤️ por [@Juanipix](https://github.com/Juanipis) 😁
+Escrito con ❤️ por [@Juanipis](https://github.com/Juanipis) 😁
