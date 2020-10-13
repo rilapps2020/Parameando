@@ -1,0 +1,17 @@
+{
+	"Plantas": {
+		"Frailejon": [
+			"¡Wow! Has encontrado una de las plantas más representativas de este páramo y es una especie endémica.",
+			"El nombre científico de esta planta es Espeletia occidentalis var. antioquensis pero tambien le dicen Frailejón",
+			"y puede alcanzar hasta los 8 metros de altura",
+			"Tiene un único tallo coronado de hojas suculentas, cubiertas de pelos lanosos que le permite absorber agua.",
+			"Cuando las hojas se secan quedan adheridas al tallo y sirvien de protección contra el frio",
+			"Además ecológicamente es importante porque representa el hábitat de varias especies de insectos y anfibios."
+		],
+		"Helecho_de_paramo": [
+			"Este es un Blechnum colombiense, una planta caracteristica de los páramos",
+			"Sus hojas pueden alcanzanar hasta 40 cm de largo que se desprenden de un tallo central formando una roseta",
+			"Las hojas jóvenes son de una coloración granate y la reproducción se realiza por esporas."
+		]
+	}
+}

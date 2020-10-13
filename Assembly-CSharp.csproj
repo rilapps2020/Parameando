@@ -51,6 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Canvas\CanvasRender.cs" />
+     <Compile Include="Assets\Dialog.cs" />
+     <Compile Include="Assets\DialogManager.cs" />
+     <Compile Include="Assets\DialogTrigger.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoSceneManager.cs" />
      <Compile Include="Assets\GoogleVR\Demos\Scripts\HelloVR\HeadsetDemoManager.cs" />
@@ -158,7 +162,10 @@
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+     <Compile Include="Assets\Scripts\InGame\Audio_start.cs" />
      <Compile Include="Assets\Scripts\InGame\DayNight\DayNight.cs" />
+     <Compile Include="Assets\Scripts\InGame\GoToPlant.cs" />
+     <Compile Include="Assets\Scripts\InGame\HelloWorld.cs" />
      <Compile Include="Assets\Scripts\Menu\ButtonTest.cs" />
      <Compile Include="Assets\Scripts\Menu\Change_scene.cs" />
      <Compile Include="Assets\Scripts\Menu\ChangeTypeView.cs" />
