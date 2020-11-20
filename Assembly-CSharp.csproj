@@ -164,7 +164,6 @@
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
      <Compile Include="Assets\Scripts\InGame\Audio_start.cs" />
      <Compile Include="Assets\Scripts\InGame\DayNight\DayNight.cs" />
-     <Compile Include="Assets\Scripts\InGame\GoToPlant.cs" />
      <Compile Include="Assets\Scripts\InGame\HelloWorld.cs" />
      <Compile Include="Assets\Scripts\Menu\ButtonTest.cs" />
      <Compile Include="Assets\Scripts\Menu\Change_scene.cs" />
@@ -178,8 +177,6 @@
      <Compile Include="Assets\Scripts\Movement\AnimatePlayer.cs" />
      <Compile Include="Assets\Scripts\Movement\Autowalk.cs" />
      <Compile Include="Assets\Scripts\Movement\MovementTest.cs" />
-     <Compile Include="Assets\Scripts\Movement\NavMeshController.cs" />
-     <Compile Include="Assets\Scripts\Movement\NPCCheckpoint.cs" />
      <Compile Include="Assets\Scripts\Movement\RotatePlayer.cs" />
      <Compile Include="Assets\Scripts\Movement\TracingObject.cs" />
      <Compile Include="Assets\Scripts\PlayerPrefs\UserSettings.cs" />
